@@ -1,0 +1,6 @@
+program toto;
+var 1a,b,c:integer;
+var c:char;
+begin
+write(a>b);
+end.
